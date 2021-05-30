@@ -1,7 +1,7 @@
 For the first Problem Set the learners were asked to create 3 different programmes.
 
 
-The first basic programme ([hello.c](https://github.com/PSchiffsbauteil/data_backyard/blob/main/CS50_code/pset1/hello.c "hello") asks the user for a name (or string input) and greets the user.
+The first basic programme ([hello.c](https://github.com/PSchiffsbauteil/data_backyard/blob/main/CS50_code/pset1/hello.c "hello")) asks the user for a name (or string input) and greets the user.
 
 
 The second programme ([cash.c](https://github.com/PSchiffsbauteil/data_backyard/blob/main/CS50_code/pset1/cash.c "cash")) finds the smallest amount of coins that someone can expect for a given amount of change, for which the user is queried.
